@@ -1,6 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is OMKAR SAHASRABUDDHE.
 ======================================================================================================================================
 <h4>CSE Student | Exploring the world of code | Tech Enthusiast | AI/ML Enthusiast</h4>
+
 - 🌱 I’m currently learning **Data Structure and Algorithm in C++**
 - 💬 Ask me about **DSA problems**
 - 📫 How to reach me: collegeomkar0@gmail.com
@@ -16,8 +17,6 @@ src="https://img.shields.io/github/followers/omkars25?logo=github&style=for-the-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
