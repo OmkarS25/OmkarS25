@@ -2,6 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 <h4>CSE Student | Exploring the world of code | Tech Enthusiast | AI/ML Enthusiast</h4>
 
+[![!@omkars25's Holopin board](https://holopin.io/api/user/board?user=omkars25)))](https://holopin.io/@omkars25)
+
 - 🌱 I’m currently learning **Data Structure and Algorithm in C++**
 - 💬 Ask me about **DSA problems**
 - 📫 How to reach me: collegeomkar0@gmail.com
